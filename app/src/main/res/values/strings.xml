@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="remember_password">Remember password</string>
+    <string name="username">Mật khẩu:</string>
+    <string name="input_username">Nhập tài khoản</string>
+    <string name="input_password">Nhập mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="password">Mật khẩu:</string>
+</resources>
